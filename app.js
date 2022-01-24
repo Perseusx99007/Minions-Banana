@@ -1,4 +1,3 @@
-
 /*var userName = prompt("ENTER YOUR NAME");
 
 alert("Welcome " + userName);*/
